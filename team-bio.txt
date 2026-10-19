@@ -3,5 +3,6 @@ Im Arturs and I graduate from Latvian university this summer, in free time playi
 During bootcamp I want to meet new people and try to work as a team with them. Also want to strengthen my OOP base with understanding of git.
 
 That's all.
+My name is Artyom and graduate from TSI of Computer Science which has part-time job in same university where he has graduated, I want to upgrade my skills of software development and prepare myself for the dive to the software development environment.
 My name is Edgars. I'm from Ventspils. 
 I want to learn Java and other tools for backend and full-stack development.
