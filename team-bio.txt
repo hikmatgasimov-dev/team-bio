@@ -1,0 +1,1 @@
+My goal in this bootcamp is to learn to write code starting from the fundamentals and grow as a Java developer. I want to build applications with Spring Boot and a relational database (MySQL), create REST APIs, and write clean code following the SOLID principles.
