@@ -1,3 +1,9 @@
+
+-My goal in this bootcamp is to learn to write code starting from the fundamentals and grow as a Java developer. I want to build applications with Spring Boot and a relational database (MySQL), create REST APIs, and write clean code following the SOLID principles.
+-My name is Edgars. I'm from Ventspils. 
+I want to learn Java and other tools for backend and full-stack development.
+
 My name is Artyom and graduate from TSI of Computer Science which has part-time job in same university where he has graduated, I want to upgrade my skills of software development and prepare myself for the dive to the software development environment.
 My name is Edgars. I'm from Ventspils. 
 I want to learn Java and other tools for backend and full-stack development.
+
