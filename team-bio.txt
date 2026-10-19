@@ -1,3 +1,5 @@
 Im Arturs and I graduate from Latvian university this summer, in free time playing piano and guitar.
 
 During bootcamp I want to meet new people and try to work as a team with them. Also want to strengthen my OOP base with understanding of git.
+
+That's all.
